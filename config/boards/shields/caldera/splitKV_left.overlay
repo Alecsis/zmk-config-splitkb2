@@ -1,4 +1,4 @@
-#include "splitKV.dtsi"
+#include "splitkv.dtsi"
 
 &kscan0 {
     col-gpios
