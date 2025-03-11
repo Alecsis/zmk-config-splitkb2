@@ -1,4 +1,4 @@
-#include "splitkv.dtsi"
+#include "splitKV.dtsi"
 
 &default_transform { 
     col-offset = <6>;
